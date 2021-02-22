@@ -2,7 +2,7 @@
 
 Data and analysis for:  
 
-**Forward genetics in Wolbachia: Regulation of Wolbachia proliferation by the amplification and deletion of an addictive genomic island**  
+**Forward genetics in *Wolbachia*: Regulation of *Wolbachia* proliferation by the amplification and deletion of an addictive genomic island**  
 Elves H Duarte, Ana Carvalho, Sergio López-Madrigal, João Costa, Luís Teixeira  
 
 
