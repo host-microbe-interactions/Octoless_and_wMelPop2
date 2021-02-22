@@ -1,0 +1,69 @@
+S1 Data. Relative Wolbachia titres in Drosophila females treated with varying doses of tetracycline.
+Relative Wolbachia titre was determined using qPCR on individual females. Variables: sample (sample name, including tetracycline concentration in mM and replicate), gene (gene amplified), cts (raw cycle threshold value), fly_generation (fly generations post tetracycline treatment). WSP, Wolbachia surface protein; RPL32, Drosophila Ribosomal protein L32. Data for S1 Figure.
+
+S2 Data. Fecundity of Drosophila females after EMS treatment.
+Number of eggs and adult progeny of individual EMS-treated Drosophila females. Variables: day_post_treatment (days post EMS treatment), replicate (biological replicate), ems_doses (EMS concentration in mM), number_eggs (number of eggs of individual females), number_adults (number of adult progeny of individual females). Data for S2A and S2B Fig.
+
+S3 Data. Wolbachia titres of EMS-treated females (experiment 1).
+Relative Wolbachia titre was measured using qPCR on individual F1 progeny of EMS-treated females. Variables: sample (sample name, including EMS concentration in mM and replicate), gene (gene amplified), cts (raw cycle threshold value). WSP, Wolbachia surface protein; RPL32, Drosophila Ribosomal protein L32. Data for S2C Fig.
+
+S4 Data. Wolbachia titres of EMS-treated females (experiment 2).
+Relative Wolbachia titre was measured using qPCR on individual F1 progeny of EMS-treated females. Variables: sample (sample name, including replicate and EMS concentration in mM), gene (gene amplified), cts (raw cycle threshold value). WSP, Wolbachia surface protein; RPL32, Drosophila Ribosomal protein L32. Data for S2D Fig.
+
+S5 Data. Isolation of Line 1A (wMelPop2).
+Relative Wolbachia titre of Line 1A was determined using qPCR. Variables: sample (sample name, including treatment regime and replicate), gene (gene amplified), cts (raw cycle threshold value), fly_generations (fly generations after EMS treatment). WSP, Wolbachia surface protein; RPL32, Drosophila Ribosomal protein L32. Data for Fig 1A.
+
+S6 Data. Isolation of Line 2A (wMelOctoless).
+Relative Wolbachia titre of Line 2A was determined using qPCR. Variables: sample (sample name, including treatment regime and replicate), gene (gene amplified), cts (raw cycle threshold value), fly_generations (fly generations after EMS treatment). WSP, Wolbachia surface protein; RPL32, Drosophila Ribosomal protein L32. Data for Fig 1B.
+
+S7 Data. Relative titre of Wolbachia Line 1A and 2A in an isogenic genetic background.
+Relative titre of Wolbachia Line 1A (wMelPop2) and 2A (wMelOctoless) in an isogenic genetic background. Variables: sample (sample name, including line/Wolbachia information and replicate), gene (gene amplified), cts (raw cycle threshold value). WSP, Wolbachia surface protein; RPL32, Drosophila Ribosomal protein L32. Data for Fig 1C.
+
+S8 Data. Isolation of Line 2B.
+Relative titre of Wolbachia Line 2B was determined using qPCR. Variables: sample (sample name, including line/Wolbachia information and replicate), gene (gene amplified), cts (raw cycle threshold value), fly_generations (fly generations after EMS treatment). WSP, Wolbachia surface protein; RPL32, Drosophila Ribosomal protein L32. Data for S3A Fig.
+
+S9 Data. Isolation of Line 3A (wMelOctoless2).
+Relative titre of Wolbachia Line 3A (wMelOctoless2) was determined using qPCR. Variables: sample (sample name, line/Wolbachia information and replicate), gene (gene amplified), cts (raw cycle threshold value), fly_generations (fly generations after EMS treatment). WSP, Wolbachia surface protein; RPL32, Drosophila Ribosomal protein L32. Data for S3B Fig.
+
+S10 Data. Isolation of Line 3B.
+Relative titre of Wolbachia Line 3B was determined using qPCR. Variables: sample (sample name, line/Wolbachia information and replicate), gene (gene amplified), cts (raw cycle threshold value), fly_generations (fly generations after EMS treatment). WSP, Wolbachia surface protein; RPL32, Drosophila Ribosomal protein L32. Data for S3C Fig.
+
+S11 Data. Isolation of Line 3C.
+Relative titre of Wolbachia Line 3C was determined using qPCR. Variables: sample (sample name, including line/Wolbachia information and replicate), gene (gene amplified), cts (raw cycle threshold value), fly_generations (fly generations after EMS treatment). WSP, Wolbachia surface protein; RPL32, Drosophila Ribosomal protein L32. Data for S3D Fig.
+
+S12 Data. Relative titre of wMelOctoless and wMelOctoless2.
+Relative titre of wMelOctoless and wMelOctoless2 in an isogenic genetic background. Variables: sample (sample name, including Wolbachia variant and time-point), gene (gene amplified), cts (raw cycle threshold value). WSP, Wolbachia surface protein; RPL32, Drosophila Ribosomal protein L32; Samples starting with “Cal” were used as calibrator samples for qPCR. Data for S5 Fig.
+
+S13 Data. Relative copy number of individual genes in the Octomom region.
+Relative copy number of individual genes in the Octomom region. Variables: sample (sample name, including Wolbachia variant and replicate), gene (gene amplified), cts (raw cycle threshold value). wMelCS_b, wMelCS_b; wMelOctoless, wMelOctoless; wMelPop2, wMelPop2 carrying 8-9 Octomom copies; WSP, Wolbachia surface protein; rpoD, wMel rpoD gene; WD0505, wMel WD0505 locus; WD0507, wMel WD0507 locus; WD0508, wMel WD0508 locus; WD0509, wMel WD0509 locus; WD0510, wMel WD0510 locus; WD0511, wMel WD0511 locus; WD0512, wMel WD0512 locus; WD0513, wMel WD0513 locus; WD0514, wMel WD0514 locus; WD0519, wMel WD0519 locus. Data for S6 Fig.
+
+S14 Data. Relative copy number of WD0513 during selection for wMelPop and wMelPop2 with low and high Octomom copy number.
+Relative copy number of WD0513 in individual Drosophila females carrying different Wolbachia variant. Variables: sample (sample name, including Wolbachia variant and replicate), gene (gene amplified), cts (raw cycle threshold value), generation (fly generations since the beginning of the selection). CSB, wMelCS_b; OCTO, wMelOctoless; POP2L, wMelPop2 with 3 copies of Octomom; POP2H, wMelPop2 with 8-9 copies of Octomom; POPL, wMelPop with 2-3 copies of Octomom; POPH, wMelPop with 8-9 copies of Octomom; WSP, Wolbachia surface protein; WD0513, wMel locus WD0513. Data for S7 Fig.
+
+S15 Data. Wolbachia titre dynamics in adults at different temperatures.
+Relative Wolbachia titres in adults at different temperatures, at different days post adult eclosion. Variables: sample (sample name, including Wolbachia variant, time-point, and replicate), gene (gene amplified), cts (raw cycle threshold value), plate (qPCR run), experimental_replicate (experimental replicate), temperature (temperature in ºC). Time-points are coded as letters. Each consecutive letter indicates an increase of 3, 7, and 10 days for experiments at 18ºC, 25ºC, and 29ºC, respectively. CSB, wMelCS_b; OCTO, wMelOctoless; POP2L, wMelPop2 with 3 copies of Octomom; POP2H, wMelPop2 with 8-9 copies of Octomom; POPL, wMelPop with 2-3 copies of Octomom; POPH, wMelPop with 8-9 copies of Octomom; WSP, Wolbachia surface protein; RPL32, Drosophila Ribosomal protein L32. Samples containing “REF” were used as calibrator samples for qPCR. Data for Fig 3, S10, and S11 Fig.
+
+S16 Data. Relative copies of WD0513 in wMelPop2 and wMelPop.
+Relative copy number of WD0513 in wMelPop2 and wMelPop was determined using qPCR. Variables: sample (sample name, including Wolbachia variant and replicate), gene (gene amplified), cts (raw cycle threshold value), experimental_replicate (experimental replicate). CSB, wMelCS_b; POP2, wMelPop2 with 3 copies of Octomom; POP, wMelPop with 3 copies of Octomom; WSP, Wolbachia surface protein; WD0513, wMel locus WD0513. Data for S12A Fig.
+
+S17 Data. Relative titre of wMelPop2 and wMelPop with controlled Octomom copy number.
+Relative titre of wMelPop2 and wMelPop. Variables: sample (sample name, including Wolbachia variant, time-point and replicate), gene (gene amplified), cts (raw cycle threshold value), plate (qPCR run), experimental_replicate (experimental replicate), temperature (temperature in ºC). CSB, wMelCS_b; POP2, wMelPop2 with 3 copies of Octomom; POP, wMelPop with 3 copies of Octomom; WSP, Wolbachia surface protein; RPL32, Drosophila Ribosomal protein L32. Samples containing “REF” were used as calibrator samples for qPCR. Data for S12B Fig.
+
+S18 Data. Lifespan of flies carrying wMelPop2 and wMelPop with controlled Octomom copy number.
+Lifespan of Drosophila males carrying wMelPop2 and wMelPop with controlled Octomom copy number. Variables: day (day post eclosion), unique_id (vial information), status (the type of event: dead fly [1] or censored observation [0]), wolbachia (Wolbachia variant), sex (the sex of tested flies), experimental replicate (full experimental replicate, performed at different dates), replicate (replicate vial, containing 10 individual flies). wMelCS_b, wMelCS_b; wMelPop2, wMelPop2 with 3 copies of Octomom; wMelPop, wMelPop with 3 copies of Octomom. Data for S12C and S12D Fig.
+
+S19 Data. Wolbachia titre and Octomom copy number dynamics throughout D. melanogaster development.
+Absolute Wolbachia titres during D. melanogaster development. Variables: sample (sample name, including Wolbachia variant, time-point and replicate), gene (gene amplified), cts (raw cycle threshold value), plate (qPCR run). CSB, wMelCS_b, OCTO, wMelOctoless; POP2, wMelPop2 with 8-9 copies; WSP, Wolbachia surface protein; RPL32, Drosophila Ribosomal protein L32; WD0513, wMel locus WD0513. Samples containing “Ref” were used as calibrator samples for qPCR. Samples starting with “STD” are, consecutive 1:10 dilutions of plasmids of know number of the WSP gene. Data for Fig 4 and S13A Fig.
+
+S20 Data. Relative copies of WD0513 in different Wolbachia variants, in adults, at different temperatures.
+Relative copy number of WD0513 on different Wolbachia variants, in adults, at different temperatures. Variables: sample (sample name, including Wolbachia variant, time-point and replicate), gene (gene amplified), cts (raw cycle threshold value), plate (qPCR run), experimental_replicate (experimental replicate), temperature (temperature in ºC). Time-points are coded as letters. Each consecutive letter indicates a developmental stage. CSB, wMelCS_b; OCTO, wMelOctoless; POP2L, wMelPop2 with 3 copies of Octomom; POP2H, wMelPop2 with 8-9 copies of Octomom; POPL, wMelPop with 2-3 copies of Octomom; POPH, wMelPop with 8-9 copies of Octomom; WSP, Wolbachia surface protein; WD0513, wMel locus WD0513; REF, qPCR calibrator samples. Data for S13B Fig.
+
+S21 Data. Lifespan of flies carrying different Wolbachia variants, at different temperatures.
+Lifespan of Drosophila males and females carrying different Wolbachia variants, at different temperatures. Data for Fig 5 and S14 Fig. Variables: day (day post eclosion), unique_id (vial information), status (the type of event: dead fly [1] or censored observation [0]), wolbachia (Wolbachia variant), temperature (temperature in ºC), experimental_replicate (full experimental replicate, performed at different dates), replicate (replicate vial, containing 10 individual flies), sex (the sex of tested flies). NoWolb, flies without Wolbachia; wMelCS_b, wMelCS_b; wMelOctoless, wMelOctoless; wMelPop2-Low, wMelPop2 carrying 3 Octomom copies; wMelPop2-High, wMelPop2 carrying 8-9 Octomom copies; wMelPop-Low, wMelPop carrying 2-3 Octomom copies; wMelPop-High, wMelPop carrying 8-9 Octomom copies.
+
+S22 Data. Lifespan of flies carrying different Wolbachia variants, from reciprocal crosses.
+Lifespan of Drosophila females carrying different Wolbachia variants at 29ºC. Variables: day (day post eclosion), unique_id (vial information), status (the type of event: dead fly [1] or censored observation [0]), experimental_replicate (experimental replicate), replicate (technical replicate; i.e. replicates within an experimental replicate), cross (crossing between Wolbachia-carrying virgin females and Wolbachia-carrying males). CSB, wMelCS_b; OCTO, wMelOctoless; POP2L, wMelPop2 with 3 copies of Octomom; POP2H, wMelPop2 with 8-9 copies of Octomom. Data for S15 Fig.
+
+S23 Data. Survival after infection with Drosophila C virus of different Wolbachia-carrying flies.
+Survival of Wolbachia-free or different Wolbachia-carrying flies after DCV or buffer inoculation. Variables: day (day post eclosion), unique_id (vial information), status (the type of event: dead fly [1] or censored observation [0]), wolbachia (Wolbachia variant), experimental_replicate (the experimental replicate), infection (DCV or buffer), replicate (technical replicate; i.e. replicates within an experimental replicate). CSB, wMelCS_b; OCTO, wMelOctoless; POP2L, wMelPop2 with 3 copies of Octomom; POP2H, wMelPop2 with 8-9 copies of Octomom; POPL, wMelPop with 2-3 copies of Octomom; POPH, wMelPop with 8-9 copies of Octomom; DCV, Drosophila C virus. Data for Fig 6 and S17 Fig.
+
